@@ -14,13 +14,13 @@
 ![screencapture-cafe-online-shop-netlify-app-product-650fee153c002f0f492b5250-2023-10-07-14_34_01](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/c8c0ae89-e637-4e16-9911-47bb7376c8ab)
 
 
+![screencapture-cafe-online-shop-netlify-app-login-2023-10-07-14_34_14](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/7d1de55b-3288-4274-b954-b249290559ff)
+
+
 ![screencapture-cafe-online-shop-netlify-app-register-2023-10-07-14_34_22](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/32065dfa-0c5c-480f-b3f5-86d29a449805)
 
 
 ![screencapture-cafe-online-shop-netlify-app-my-orders-2023-10-07-14_35_02](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/faf1b316-13a0-4eb6-b2d3-22f8b51f5a39)
-
-
-![screencapture-cafe-online-shop-netlify-app-login-2023-10-07-14_34_14](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/7d1de55b-3288-4274-b954-b249290559ff)
 
 
 ![screencapture-cafe-online-shop-netlify-app-carts-2023-10-07-14_35_39](https://github.com/Ericson-WebDeveloper/cafe-shop-client/assets/60337201/77e30e66-bdce-416c-bd94-902a18953ac8)
